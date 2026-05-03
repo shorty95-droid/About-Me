@@ -18,7 +18,7 @@ My GitHub journey is about learning intentionally, documenting progress, and bui
 - 🚒 **Emergency Services:** Former volunteer firefighter
 - 👶 **Family:** Dedicated mom and family provider
 
-### 🛠️ Skills I’m Building
+## 🛠️ Skills I’m Building
 
 - Communication and documentation
 - GitHub basics and project organization
@@ -27,7 +27,7 @@ My GitHub journey is about learning intentionally, documenting progress, and bui
 - Technical writing and clear documentation
 - Creative writing, storytelling, and content creation
 
-### 💡 Core Strengths
+## 💡 Core Strengths
 
 - Customer service and communication
 - Team leadership
@@ -67,7 +67,7 @@ I’m proud to be a published author with 3 books available on Amazon:
 
 Writing and publishing have helped me strengthen my creativity, discipline, and storytelling skills. 💚
 
-### 📓 Private Learning Journal
+## 📓 Private Learning Journal
 
 My Learning Journal is a private, non-public project where I track my learning progress as I build new skills. I use it to document:
 
@@ -118,11 +118,9 @@ I’m still early in my tech journey, but I’m serious about learning. Every pr
 
 ## ⭐ My Philosophy
 
-Progress over perfection.
+**Progress over perfection.**
 
 Every skill learned, every project completed, every book published, and every challenge overcome is a step forward. I’m here to learn, grow, contribute, and build a better future one commit at a time.
-
----
 
 ## 📈 GitHub Stats
 
@@ -132,8 +130,6 @@ Every skill learned, every project completed, every book published, and every ch
 
 ---
 
-**Last Updated**: May 2026
+**Last Updated:** May 2026
 
----
-
-**Thank you for visiting my profile!** 💚 Feel free to explore my repositories, check out my published works, and don't hesitate to reach out. I'm always excited to connect with supportive community members, fellow authors, and lifelong learners!
+Thank you for visiting my profile! 💚
