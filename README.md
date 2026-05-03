@@ -1,117 +1,126 @@
 # Hi there! 👋 I'm shorty95-droid
 
-Welcome to my GitHub profile! I'm a **published author, CNA, future educator, writer, and tech enthusiast** on a mission to build a strong future for my family while developing new skills in technology and digital tools.
+Welcome to my GitHub profile! I’m a published author, CNA, future educator, writer, and beginner tech learner building new skills in digital tools, documentation, AI-assisted learning, and remote-friendly work.
 
 ## 🚀 About Me
 
-I'm a dedicated professional with a diverse background spanning **healthcare, retail leadership, emergency services, and caregiving**. Currently working as a CNA at the Missouri Veterans Home in Cape Girardeau, Missouri, I'm passionate about helping others and making a meaningful impact.
+I’m currently a Certified Nursing Assistant at the Missouri Veterans Home in Cape Girardeau, Missouri. I have a diverse background in healthcare, retail leadership, emergency services, caregiving, and creative writing.
 
-With my boyfriend preparing to serve in the Army and balancing motherhood, I'm strategically building **remote-friendly tech skills** to create flexibility and opportunity for my growing family. I'm returning to school to pursue a degree in **Elementary Education**, combining my love for learning with my commitment to nurturing the next generation.
+I’m also preparing to return to school for a degree in Elementary Education. As a mom, student, healthcare worker, and military-family partner, I’m focused on building flexible skills that can help create long-term stability and opportunity for my family.
 
-I believe in **continuous growth**, clear communication, and tackling challenges with creativity and determination. My GitHub journey is a testament to my commitment to learning, adapting, and building skills that matter—one project at a time.
+My GitHub journey is about learning in public, documenting progress, and building confidence one project at a time.
 
-## 💼 My Experience & Skills
+## 💼 Experience & Background
 
-### Professional Background
-- 🏥 **Healthcare**: Certified Nursing Assistant at Missouri Veterans Home
-- 📚 **Publishing**: Published Author (3 books on Amazon)
-- 🛍️ **Retail Leadership**: Former Electronics Manager at Walmart
-- 🚒 **Emergency Services**: Former Volunteer Firefighter
-- 👶 **Caregiving**: Dedicated Mother & Family Provider
+- 🏥 **Healthcare:** Certified Nursing Assistant at Missouri Veterans Home
+- 📚 **Publishing:** Published author with 3 books on Amazon
+- 🛍️ **Retail Leadership:** Former Electronics Manager at Walmart
+- 🚒 **Emergency Services:** Former volunteer firefighter
+- 👶 **Family:** Dedicated mom and family provider
 
-### Technical Skills (In Progress)
-- ✅ **Communication & Documentation**: Clear writing, organized knowledge sharing
-- ✅ **GitHub & Version Control**: Project management, collaboration basics
-- ✅ **AI-Assisted Learning**: Leveraging modern tools for skill development
-- ✅ **Problem-Solving**: Staying calm and finding solutions under pressure
-- 🌱 **Digital Tools**: Learning emerging platforms and technologies
-- 🌱 **Creative Writing**: Storytelling, documentation, content creation
+### 🛠️ Skills I’m Building
 
-### Core Strengths
-- 💬 **Exceptional Customer Service**: Building relationships and trust
-- 👥 **Team Leadership**: Motivating others and fostering collaboration
-- 🎯 **Organization & Planning**: Managing priorities and timelines
-- 🤝 **Patient Care & Confidentiality**: Compassion meets professionalism
-- 💡 **Creative Problem-Solving**: Finding innovative solutions
+- Communication and documentation
+- GitHub basics and project organization
+- AI-assisted learning and creative tools
+- Digital organization and beginner tech workflows
+- Technical writing and clear documentation
+- Creative writing, storytelling, and content creation
+
+### 💡 Core Strengths
+
+- Customer service and communication
+- Team leadership
+- Problem-solving under pressure
+- Organization and planning
+- Patient care and confidentiality
+- Adaptability and continuous learning
 
 ## 📚 Current Learning Journey
 
-I'm actively developing skills to qualify for:
-- 🎯 **Remote Customer Support Specialist** roles
-- 🎯 **Tech Support Associate** positions
-- 🎯 **Creative Assistant / Content Creator** opportunities
-- 🎯 **Entry-Level Digital & Tech Roles**
+I’m currently developing skills that can help me grow into remote-friendly and tech-adjacent roles, including:
+
+- Remote Customer Support Specialist
+- Tech Support Associate
+- Creative Assistant
+- Content Creator
+- Entry-Level Digital or Tech Support Roles
 
 ### Currently Exploring
-- 🔭 GitHub workflows and collaborative projects
-- 🌱 AI tools and AI-assisted creative work
-- 📖 Beginner portfolio projects and tech fundamentals
-- ✍️ Technical writing and documentation
-- 🎓 Preparing for Elementary Education degree coursework
+
+- GitHub workflows
+- Beginner portfolio projects
+- AI tools and AI-assisted creative work
+- Technical writing and documentation
+- Digital tools for organization and productivity
+- Elementary Education degree preparation
 
 ## ✨ Featured Accomplishments
 
 ### 📖 Published Books on Amazon
 
-I'm proud to be a **published author** with 3 books available on Amazon! 
+I’m proud to be a published author with 3 books available on Amazon:
 
-📕 **Book 1**: Bound By Moonlight https://a.co/d/0aJkLoOn
-
-📗 **Book 2**: The Siren’s Surrender https://a.co/d/0dirALdz
-
-📘 **Book 3**: Queen of Shadow and Desire https://a.co/d/06DkLCG3
+- **Bound By Moonlight:** https://a.co/d/0aJkLoOn
+- **The Siren’s Surrender:** https://a.co/d/0dirALdz
+- **Queen of Shadows and Desire:** https://a.co/d/06DkLCG3
 
 Check them out and support independent authors! 💚
 
-### 📓 Learning Journal
-My **Learning Journal** is a personal project tracking my tech journey and skill development. It serves as:
-- A documentation hub for GitHub learning and progress
-- A reflection space for digital tools and AI exploration
-- A portfolio of beginner-friendly tech projects
-- A creative writing showcase
-- Evidence of my commitment to continuous growth
+### 📓 Private Learning Journal
 
-## 🎯 What I'm Building Toward
+My Learning Journal is a private, non-public project where I track my learning progress as I build new skills. I use it to document:
 
-As I balance **work, motherhood, school, and military family life**, I'm strategically developing skills that align with my goals:
+- GitHub learning notes
+- Digital tool practice
+- AI-assisted learning experiments
+- Beginner tech concepts
+- Reflections on my growth and goals
 
-✨ **Professional Goals:**
-- Secure remote work opportunities that offer flexibility
-- Build a strong portfolio of real projects
-- Develop expertise in customer-facing tech roles
-- Create sustainable income streams for my family
-- Continue my journey as an author and creator
+Even though this project is private, it helps me stay organized and consistent as I continue learning.
 
-✨ **Personal Goals:**
+## 🎯 What I’m Building Toward
+
+I’m working toward flexible career opportunities that allow me to support my family, continue my education, and grow professionally.
+
+### Professional Goals
+
+- Build remote-friendly skills
+- Create a beginner portfolio of real projects
+- Grow into customer-facing tech or digital support roles
+- Continue developing as an author and creator
 - Complete my Elementary Education degree
+
+### Personal Goals
+
 - Model lifelong learning for my son
-- Support my family during military transition
-- Show my children that it's never too late to grow and change
+- Support my family during the transition into military life
+- Keep growing, even when life is busy
+- Build a future with more stability, flexibility, and opportunity
 
 ## 📊 My GitHub Journey
 
-I'm **early in my tech journey**, but I'm all-in on learning. Every commit, project, and contribution represents my dedication to building skills that matter for my family's future. I welcome collaboration, feedback, and encouragement from this amazing community!
+I’m still early in my tech journey, but I’m serious about learning. Every project, note, and update represents progress. I welcome advice, encouragement, beginner-friendly collaboration, and feedback from the GitHub community.
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
-I'd love to hear from you! Whether you have advice, opportunities, or just want to connect:
-
-- 💼 **LinkedIn**: https://www.linkedin.com/in/chantel-fifer-3bb229343?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- 📧 **Email**: fifercha95@gmail.com or chantel.fifer@gmail.com
-- 📚 **Amazon Author Page**: https://www.amazon.com/stores/Chantel-Fifer/author/B0GDHFG87F?ref=ap_rdr&shoppingPortalEnabled=true&ccs_id=461072af-3377-4e32-a4ed-44e432cedfd7
+- 💼 **LinkedIn:** https://www.linkedin.com/in/chantel-fifer-3bb229343
+- 📧 **Email:** fifercha95@gmail.com
+- 📚 **Amazon Author Page:** https://www.amazon.com/stores/Chantel-Fifer/author/B0GDHFG87F
 
 ## 💡 Open To
 
-- 🤝 Collaboration on beginner-friendly projects
-- 📚 Learning opportunities and mentorship
-- 💬 GitHub tips, best practices, and community support
-- 🎓 Advice on transitioning into tech and remote work
-- 💪 Connecting with other parents, military families, and career-changers
-- 📖 Author opportunities and creative collaborations
+- Beginner-friendly project collaboration
+- Learning opportunities and mentorship
+- GitHub tips and best practices
+- Advice on transitioning into remote or tech-adjacent work
+- Connecting with other parents, military families, authors, and career-changers
 
-## ⭐ A Little About My Philosophy
+## ⭐ My Philosophy
 
-*"Progress over perfection. Every skill learned, every project completed, every book published, and every challenge overcome is a victory. I'm here to learn, grow, contribute, and inspire—one commit at a time."*
+Progress over perfection.
+
+Every skill learned, every project completed, every book published, and every challenge overcome is a step forward. I’m here to learn, grow, contribute, and build a better future one commit at a time.
 
 ---
 
