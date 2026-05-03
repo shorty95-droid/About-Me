@@ -56,7 +56,9 @@ I'm actively developing skills to qualify for:
 I'm proud to be a **published author** with 3 books available on Amazon! 
 
 📕 **Book 1**: Bound By Moonlight https://a.co/d/0aJkLoOn
+
 📗 **Book 2**: The Siren’s Surrender https://a.co/d/0dirALdz
+
 📘 **Book 3**: Queen of Shadow and Desire https://a.co/d/06DkLCG3
 
 Check them out and support independent authors! 💚
