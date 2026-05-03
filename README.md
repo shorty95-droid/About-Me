@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I’m a published author, CNA, future educator, wr
 
 I’m currently a Certified Nursing Assistant at the Missouri Veterans Home in Cape Girardeau, Missouri. I have a diverse background in healthcare, retail leadership, emergency services, caregiving, and creative writing.
 
-I’m also preparing to return to school for a degree in Elementary Education. As a mom, student, healthcare worker, and military-family partner, I’m focused on building flexible skills that can help create long-term stability and opportunity for my family.
+I’m also preparing to return to school for a degree in Elementary Education. As a mom, student, healthcare worker, and partner preparing for military family life, I’m focused on building flexible skills that can help create long-term stability and opportunity for my family.
 
-My GitHub journey is about learning in public, documenting progress, and building confidence one project at a time.
+My GitHub journey is about learning intentionally, documenting progress, and building confidence one project at a time.
 
 ## 💼 Experience & Background
 
@@ -65,7 +65,7 @@ I’m proud to be a published author with 3 books available on Amazon:
 - **The Siren’s Surrender:** https://a.co/d/0dirALdz
 - **Queen of Shadows and Desire:** https://a.co/d/06DkLCG3
 
-Check them out and support independent authors! 💚
+Writing and publishing have helped me strengthen my creativity, discipline, and storytelling skills. 💚
 
 ### 📓 Private Learning Journal
 
