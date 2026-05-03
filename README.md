@@ -128,5 +128,3 @@ I'd love to hear from you! Whether you have advice, opportunities, or just want 
 ---
 
 **Thank you for visiting my profile!** 💚 Feel free to explore my repositories, check out my published works, and don't hesitate to reach out. I'm always excited to connect with supportive community members, fellow authors, and lifelong learners!
-# About-Me
-Get To Know Me
